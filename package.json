@@ -6,7 +6,6 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "bun build",
     "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
