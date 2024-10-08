@@ -30,7 +30,7 @@ const Register = () => {
     <div className="container registration-container">
       <div className="grid grid-2--cols section-form-common">
         <div className="registration-image">
-          <img src="/images/register.png" alt="" />
+          <img src="/mern-stack-frontend/images/register.png" alt="" />
         </div>
         <div className="form-section">
           <form action={handleFormSubmit} className="form flex">

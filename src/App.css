@@ -168,7 +168,7 @@ a {
 
 }
 
-/* Navbar end*/
+/* Navbar end*/red
 
 /* Footer Section Start  */
 footer {
@@ -692,9 +692,17 @@ width: 20%;
 
 /* fix the three dot icon */
 .hamBurger-icon{
-  display: none;
+    display: none;
     font-size: 2rem;
     cursor: pointer;
+    transition:all 2s linear  ;
+    -webkit-transition:all 2s linear  ;
+    -moz-transition:all 2s linear  ;
+    -ms-transition:all 2s linear  ;
+    -o-transition:all 2s linear  ;
+    &:hover{
+    background-color: transparent
+    }
 }
 
 /* css responsive */
