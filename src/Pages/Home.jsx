@@ -29,7 +29,7 @@ const Home = () => {
           <div className="hero-section--img">
             <figure>
               <img
-                src="/mern-stack-frontend/images/home.png"
+                src="/images/home.png"
                 alt="student study in laptop"
                 width="60%"
               />

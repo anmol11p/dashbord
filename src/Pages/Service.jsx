@@ -22,7 +22,7 @@ const Service = () => {
             <li className="card-service flex" key={service._id}>
               <figure className="grid">
                
-                <img src="/mern-stack-frontend/images/design.png" alt="" />
+                <img src="/images/design.png" alt="" />
               </figure>
               <p className="flex">
                 <span>{service.provider}</span>

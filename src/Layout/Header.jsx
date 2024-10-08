@@ -23,9 +23,7 @@ const Header = () => {
     setIsToggle((prev) => !prev);
   };
 
-
-  
-
+ 
   return (
     <div className="container navbar-container">
       <header>
