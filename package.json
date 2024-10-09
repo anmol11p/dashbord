@@ -1,5 +1,5 @@
 {
-"homepage": "https://anmol11p.github.io/dashbord",
+  "homepage": "https://anmol11p.github.io/dashbord",
   "name": "client",
   "private": true,
   "version": "0.0.0",
@@ -14,6 +14,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "axios": "^1.7.7",
+    "client": ".",
     "react": "^19.0.0-rc-459fd418-20241001",
     "react-dom": "^19.0.0-rc-459fd418-20241001",
     "react-icons": "^5.3.0",
