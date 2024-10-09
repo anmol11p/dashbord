@@ -31,7 +31,7 @@ const Login = () => {
     <div className="container login-container">
       <div className="grid grid-2--cols section-form-common">
         <div className="registration-image">
-          <img src="/images/login.png" alt="" />
+          <img src="/dashbord/images/login.png" alt="" />
         </div>
         <div className="form-section">
           <form action={handleFormSubmit} className="form flex">

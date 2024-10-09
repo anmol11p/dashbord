@@ -69,7 +69,7 @@ const Contact = () => {
               <h2 className="title-heading">Contact Us</h2>
             </span>
             <figure>
-              <img src="/images/support.png" alt="" width="100%"  height="auto"/>
+              <img src="/dashbord/images/support.png" alt="" width="100%"  height="auto"/>
             </figure>
           </div>
 

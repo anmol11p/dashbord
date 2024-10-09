@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
-import { NavLink } from "react-router-dom";
 const Home = () => {
+ 
   return (
     <div className="container hero-container">
       <main className="section-hero">
@@ -29,7 +29,7 @@ const Home = () => {
           <div className="hero-section--img">
             <figure>
               <img
-                src="/images/home.png"
+                src="/dashbord/images/home.png"
                 alt="student study in laptop"
                 width="60%"
               />
@@ -62,7 +62,7 @@ const Home = () => {
           <div className="hero-section--img">
             <figure>
               <img
-                src="/images/webdev.png"
+                src="/dashbord/images/webdev.png"
                 alt="student study in laptop"
                 width="60%"
               />
